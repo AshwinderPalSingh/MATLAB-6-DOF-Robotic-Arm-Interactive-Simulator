@@ -4,6 +4,11 @@ This repository contains a MATLAB implementation for the forward kinematics of a
 
 The kinematics are calculated based on the Denavit-Hartenberg (D-H) convention. The project is structured to be modular, separating the GUI from the core kinematics functions.
 
+
+## MATLAB simulation
+
+
+![MATLAB simulation](images/6dof.png)
 ## Features
 
 - **Interactive GUI**: Control all 6 joint angles using sliders.
